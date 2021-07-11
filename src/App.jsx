@@ -16,7 +16,7 @@ function App() {
           </button>
         </p>
         <p>
-          Minor change.
+          Minor change...
         </p>
         <p>
           <a
